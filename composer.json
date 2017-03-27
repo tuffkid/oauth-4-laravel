@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3",     
-        "lusitanian/oauth": "dev-master"
+        "lusitanian/oauth": "dev-master#27d23a4f08f0ff081f0c4f8e5a63bebd9d21701d"
     },
     "require-dev": {
         "illuminate/support": "~4"
